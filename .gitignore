@@ -1,0 +1,40 @@
+# Python virtual environments
+.venv/
+
+# Python bytecode
+__pycache__/
+
+# Python distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+*.bak
+*.cache
+*.csv
+
+# Environment-specific files
+.env
+.env.*
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
